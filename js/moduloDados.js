@@ -2,8 +2,8 @@ const usuarios = [
     {
         id: 1,
         nomeUsuario: "jose-almir",
-        senha: "12345"
-        email: "jose.almir@soulcodeacademy.org",
+        senha: "12345",
+        email: "jose.almir@soulcodeacademy.org"
     },
     {
         id: 2,
@@ -16,7 +16,7 @@ const usuarios = [
         nomeUsuario: "bruno-dias",
         senha: "12345",
         email: "bruno.dias@gmail.com"
-    }
+    },
     {
         id: 4,
         nomeUsuario: "flavia-fonceca",
